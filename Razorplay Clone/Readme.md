@@ -6,7 +6,7 @@ This project focuses on frontend development, responsive UI design, reusable com
 
 ## 🚀 Live Demo
 
-> Add your deployed project URL here.
+> https://razorplay-clone-pi.vercel.app/
 
 ## 📸 Preview
 
