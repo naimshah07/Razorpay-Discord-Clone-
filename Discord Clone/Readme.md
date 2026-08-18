@@ -1,5 +1,5 @@
 # Discord Clone
-
+LIVE : https://discord-clone-sand-delta.vercel.app/ 
 A modern **Discord-inspired frontend application** built with React and TypeScript. The project recreates the core visual experience of Discord, including servers, channels, conversations, user profiles, and responsive layouts.
 
 This project is focused entirely on frontend development and does not include a production backend or real-time messaging infrastructure.
